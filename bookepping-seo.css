@@ -1,0 +1,647 @@
+.breadcrumb-heading {
+    font-size: 56px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 55px;
+    margin-top: 10px;
+}
+a.link-black, a.link-black:hover{color:#18212E;}
+.hero_section_title .index-main-service.hdesign {
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: -.4px;
+    line-height: 68px;
+}
+.slider-heading-two {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.slider-quickbooks-proadvisor {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 32px;
+    width: 100%!important;
+}
+
+.hero-section-title-heading {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.video-promotion-details-business {
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.helping-over-financial {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.2em;
+}
+
+.footer-widget-bookkeeping-geeks {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2em;
+}
+
+.footer-widget-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2em;
+}
+
+.service_style_2 .service_slider_box .service_slider_details .details_box .details_bg h3 {
+    margin-bottom: 34px;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 32px;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 a {
+    color: #18212E;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 a:hover {
+    color: #45cc05;
+}
+
+.professional-expert-consultants {
+    font-family: "Covered By Your Grace", cursive;
+    color: #45cc05;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 7px 0;
+    line-height: 1.2;
+}
+
+.better-help-business-started {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.better-help-business-started span {
+    display: inline-block;
+    border-bottom: 2px solid #18212E;
+    padding-bottom: 3px;
+}
+
+.question-phone {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 30px;
+}
+
+.address-place {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 30px;
+}
+
+.email-info {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 30px;
+}
+
+.service_single_area .service_single_left .service_single_img_box .get_started_dtls .commited-record-transaction {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    line-height: 30px;
+}
+
+.service_single_area .service_single_left .details .get-started-heading {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+}
+
+.service_single_area .service_single_left .details .flex_planing .planing_box h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 36px;
+    margin-top: -4px;
+}
+
+.default_sidebar .sidebar_widget .our-services {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.8px;
+    padding: 0 50px 0 50px;
+    margin-bottom: 15px;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .need-help {
+    padding: 0;
+    color: #ffffff;
+    font-weight: 500;
+    margin-bottom: 35px;
+    letter-spacing: -0.8px;
+    font-size: 20px;
+}
+
+.default_sidebar .sidebar_widget.need_help .need-help-number {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+
+/* Accounts Payable */
+
+.service_single_area .service_single_left .service_single_img_box .get_started_dtls h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    line-height: 30px;
+}
+
+.service_single_area .service_single_left .details .account-payable {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+}
+
+.service_single_area .service_single_left .details .flex_planing .planing_box .benefits-our-service {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 36px;
+    margin-top: -4px;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget .our-service {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.8px;
+    padding: 0 50px 0 50px;
+    margin-bottom: 15px;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .need-help-account {
+    padding: 0;
+    color: #ffffff;
+    font-weight: 500;
+    margin-bottom: 35px;
+    font-size: 20px;
+    letter-spacing: -0.8px;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .account-need-help-number {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.footer_area .footer_widget .account-footer-heading-one {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .account-have-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+
+/* Budgeting */
+
+.service_single_area .service_single_left .details .budgeting-details {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .budgeting-need-help-number {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.footer_area .footer_widget .budgeting-widget-title {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .budgeting-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.service_single_area .service_single_left .details .flex_planing .planing_box h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 36px;
+    margin-top: -4px;
+    line-height: 1.2;
+}
+
+
+/* Financial Reports */
+
+.service_single_area .service_single_left .details .financial-details {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .financial-need-help-number {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.footer_area .footer_widget .financial-widget-title {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .financial-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.service_single_area .service_single_left .details .flex_planing .planing_box h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 36px;
+    margin-top: -4px;
+    line-height: 1.2;
+}
+
+
+/* Payroll */
+
+.service_single_area .service_single_left .service_single_img_box .get_started_dtls h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    line-height: 30px;
+}
+
+.service_single_area .service_single_left .details .payroll-details {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .payroll-need-help {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.footer_area .footer_widget .payroll-footer {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .payroll-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+
+/* Receivable */
+
+.service_single_area .service_single_left .service_single_img_box .get_started_dtls h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    line-height: 30px;
+}
+
+.service_single_area .service_single_left .details .receivables-details-heading {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px 0;
+    line-height: 1.2;
+}
+
+.default_sidebar .sidebar_widget.need_help .receivable-number {
+    font-size: 50px;
+    color: #ffec4e;
+    font-family: "Covered By Your Grace", cursive;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.footer_area .footer_widget .recivable-footer {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .footer-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+
+/* Contact */
+
+.hero_section_title h2 {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.footer_area .footer_widget .contact-footer {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .contact-footer-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+
+/* Index  */
+
+.hero_section_title .index-main-service {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -.4px;
+    line-height: 68px;
+}
+
+.hero_section_title .index-hero-section {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -.4px;
+    line-height: 68px;
+}
+
+.welcome_right .hero_section_title h1 {
+    font-family: covered by your grace, cursive;
+    color: #45cc05;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -.4px;
+    line-height: 1.2;
+    margin: 0 0 7px;
+}
+
+.hero_section_title h1 {
+    color: #18212E;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -.4px;
+    line-height: 68px;
+}
+
+.hero_section_title .about_us {
+    font-family: covered by your grace, cursive;
+    color: #45cc05;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 7px;
+}
+
+.video_promotion_area .video_promotion_details .index-support-business {
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.professional_area .professional_left .hero_section_title .index-professional {
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -.1px;
+    line-height: 43px;
+}
+
+.footer_area .footer_widget .index-footer-widget {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.footer_area .footer_widget .index-footer-question {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 37px;
+    line-height: 1.2;
+}
+
+.hero_section_title h2 {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 32px;
+    text-decoration: none !important;
+    transition: 0.3s;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 a {
+    color: #18212E;
+}
+
+.service_area .service_slider_box .service_slider_details .details_box .details_bg h3 a:hover {
+    color: #45cc05;
+}
+
+
+/* Get Started */
+
+.hero_section_title #busy {
+    font-family: covered by your grace, cursive;
+    color: #45cc05;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 7px;
+    line-height: 1.2;
+}
+
+.hero_section_title h2 {
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 68px;
+}
+
+.breadcrumb_area .breadcrumb_box h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 55px;
+    margin-top: 10px;
+}
+
+
+/* Contact Us */
+
+.hero_section_title #contact_now {
+    font-family: covered by your grace, cursive;
+    color: #45cc05;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 7px;
+    line-height: 1.2;
+}
+
+
+/* SiteMap */
+
+.contact_box .all_services ul li ul li {
+    margin-left: 50px;
+}
+
+.contact_box .all_services ul li a {
+    color: #18212E;
+}
+
+.contact_box .all_services ul li a i {
+    margin-right: 10px;
+}
+
+.contact_box .all_services ul li a:hover {
+    color: #45cc05;
+}
+
+.contact_box .hero_section_title h4 {
+    color: #18212E;
+    font-family: "Poppins", sans-serif;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+
+/* Contact Us some changes */
+
+.default_sidebar .general_btn {
+    background: #18212E;
+    color: #ffffff;
+    width: 100%;
+    padding: 15px 52px;
+    font-size: 20px;
+}
+
+
+/* New Section Styling */
+
+.new_section_background {
+    background-color: #18212e;
+    ;
+}
+
+.new_section_title div h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33px 0 34px;
+}
+
+.new_section_title .heading {
+    font-size: 40px;
+    font-weight: 700;
+    color: #212529;
+    line-height: 43px;
+    margin: 33px 0 34px;
+}
+
+.new_section_title div {
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757a84;
+    margin-bottom: 25px;
+}
+
+.new_section_padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.new_section_padding_color {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #F0F0F0;
+}
