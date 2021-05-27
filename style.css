@@ -1218,7 +1218,7 @@ video {
   05: Breadcrumb
 -------------------------------*/
 .breadcrumb_area {
-  background: url("../images/about/about-banner-bg.png") center 22% no-repeat;
+  background: url("../images/about/about-banner-bg.jpg") center 22% no-repeat;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -3328,7 +3328,7 @@ video {
   .company_mission_area .company_mission_right {
     margin-top: 50px; } }
 .company_mission_area .company_mission_right .mission_img_box {
-  background: url("../images/about/about-dorothy.png") center center no-repeat;
+  background: url("../images/about/about-dorothy.jpg") center center no-repeat;
   background-size: cover;
   width: 100%;
   height: 620px;
